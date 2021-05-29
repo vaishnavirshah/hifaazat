@@ -24,6 +24,8 @@ The main features which are included are:
 -- Shake
 - Shake to enable SOS, if this feature is an inconvenience it can also be switched off using a toggle switch.
 ##
+![](https://i.postimg.cc/WzFrx9gK/Dash-Board.jpg)
+##
 A few features to be added: 
 - Customizing android services to enable SOS (press power button 5 times).
 - Live streaming option.
